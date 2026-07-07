@@ -1,2 +1,2 @@
 # ml_study
-practice machine learning
+Let's practice machine learning!!
